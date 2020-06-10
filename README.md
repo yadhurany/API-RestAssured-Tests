@@ -15,8 +15,8 @@ Projeto realizado como Teste para seleção de QA.
 
 #### Como executar o projeto 
 ```
-git clone https://github.com/yadhurany/api-restassured.git
-cd api-restassured
+git clone https://github.com/yadhurany/API-RestAssured-Tests.git
+cd API-RestAssured-Tests
 mvn dependency:resolve
 mvn test
 ```
